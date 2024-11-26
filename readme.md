@@ -33,7 +33,7 @@ Visual-CoT 是一种结合视觉信息与链式推理的创新框架，能够使
 以下是 Visual-CoT 框架的整体结构图：
 
 <p align="center">
-  <img src="docs/images/Visual-COT.png" width="225">
+  <img src="docs/images/Visual-COT.png" width="600">
 </p>
 
 ### **工作原理**
