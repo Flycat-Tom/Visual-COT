@@ -83,7 +83,7 @@ llm_pysc2/maps/llm_smac -> C:\Program Files (x86)\StarCraft II\Maps\llm_smac
 要运行 Visual-CoT 框架下的单巨像对战 32 小狗任务，可直接启动以下实验脚本：
 
 ```
-$ python llm_pysc2/bin/llm_smac/1c_vs_32.py
+$ python llm_pysc2/bin/llm_smac/1c_vs_32zg.py
 ```
 
 该脚本将加载 `2024DeepGreen.SC2Map` 地图，并自动配置 LLM，以测试在复杂战斗场景下的精细化控制能力。
