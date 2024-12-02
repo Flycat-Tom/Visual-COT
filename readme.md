@@ -49,7 +49,7 @@ Visual-CoT 的设计使得视觉信息成为决策过程中的核心因素，大
 
 ### **安装《星际争霸II》**
 
-按照 [Blizzard 官方指南](https://github.com/Blizzard/s2client-proto#downloads) 下载支持 API 的《星际争霸II》版本（3.16.1 或以上）。默认路径为：
+按照 [Blizzard 官方指南](https://github.com/Blizzard/s2client-proto#downloads) 下载支持 API 的《星际争霸II》版本（3.16.1 或以上，最好是5.0.13版本）。默认路径为：
 
 ```
 ~/StarCraftII/
@@ -78,7 +78,7 @@ llm_pysc2/maps/llm_pysc2 -> C:\Program Files (x86)\StarCraft II\Maps\llm_pysc2
 llm_pysc2/maps/llm_smac -> C:\Program Files (x86)\StarCraft II\Maps\llm_smac
 ```
 
-### **运行 1c_vs_32.py 文件**
+### **运行 1c_vs_32zg.py 文件**
 
 要运行 Visual-CoT 框架下的单巨像对战 32 小狗任务，可直接启动以下实验脚本：
 
